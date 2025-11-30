@@ -1,27 +1,18 @@
 # ship-supplychain-simulator
 
-Shipyard Simulator
+Shipyard Pyramid Simulator
 
 Requirements
-
 You must have Python 3 installed.
 
 Installation
-
 Install the required Python libraries using pip:
-
-pip install streamlit pandas plotly
-
+pip install streamlit pandas plotly networkx
 
 How to Run
-
-Save the main application file as shipyard_simulator.py.
-
+Save the main application file as shipyard_simulator_2.py.
 Open your terminal in the same directory as the file.
-
 Run the following command:
-
-streamlit run shipyard_simulator.py
-
+streamlit run shipyard_simulator_2.py
 
 The application will open automatically in your web browser.
